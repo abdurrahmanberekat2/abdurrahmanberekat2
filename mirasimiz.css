@@ -1,0 +1,13 @@
+.card{
+    background-color: rgb(244, 244, 170);
+}
+body{
+    background-color: rgb(235, 235, 198);
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-header{
+    color: aliceblue;
+    text-align: center;
+}
