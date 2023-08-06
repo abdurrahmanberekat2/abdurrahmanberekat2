@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(195, 150, 153);
+}
+h5{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-header{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
