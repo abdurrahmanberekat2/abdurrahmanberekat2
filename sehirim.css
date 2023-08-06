@@ -1,0 +1,18 @@
+div{
+    background-color: aliceblue;
+}
+body{
+    background-color: rgb(162, 181, 197);
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card-header{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
